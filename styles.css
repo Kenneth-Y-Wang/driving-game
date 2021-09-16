@@ -19,6 +19,18 @@ body {
   width: 10%;
 }
 
+.north {
+  transform: rotate(-90deg);
+}
+
+.west {
+  transform: rotate(180deg);
+}
+
+.south {
+  transform: rotate(90deg);
+}
+
 img {
   width: 100%;
 }
