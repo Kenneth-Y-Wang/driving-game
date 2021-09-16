@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1200px;
+  height: 800px;
+  background-color: #caf0f8;
+  position: relative;
+}
+
+.carHolder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10%;
+}
+
+img {
+  width: 100%;
+}
