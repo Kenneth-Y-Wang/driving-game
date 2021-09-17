@@ -17,6 +17,7 @@ body {
   top: 0;
   left: 0;
   width: 10%;
+  transition-duration: 0.3s;
 }
 
 .north {
